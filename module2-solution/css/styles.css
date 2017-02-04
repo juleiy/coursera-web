@@ -25,7 +25,7 @@ article {
 article > h3 {
     border: 1px solid black;
     text-align: center;
-    width: 150px;
+    width: auto;
     float:right;
     position: relative;
     top:-21px;
