@@ -1,1 +1,44 @@
+* {
+  font-family: Helvetica;
+}
+
+#header-nav {
+    border-radius:0;
+    border: 1px solid;
+    color: black;
+    width:100%;
+}
+
+#nav-list {
+    margin-bottom: 0;
+}
+
+.menu-item {
+    border-radius:0;
+    border: 1px solid;
+    color:black;
+    background-color: white;
+    width:100%;
+}
+
+#ourmenu-section {
+   margin-top:0px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+.article-background{
+    padding:10px;
+    background-color: lightgray;
+}
+
+.title{
+    margin-top: 5px;
+}
+
+p a:link {
+    text-decoration: underline;
+}
 
